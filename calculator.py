@@ -11,8 +11,15 @@ d=2
 
 print(f"subtraction:  {c-d}")
 
-# Miltiplication
+# Multiplication
 
 e, f =3,4
 
 print (f"Multiplication: {e*f}")
+
+
+# division
+g=24
+h=6
+
+print(f"division:{g/h}")
